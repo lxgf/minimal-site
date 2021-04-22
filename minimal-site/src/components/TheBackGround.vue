@@ -1,5 +1,3 @@
-<component>
-  <style>
-    @import 'public/css/';
-  </style>
-</component>
+<style>
+@import './../assets/css/bg.css';
+</style>
